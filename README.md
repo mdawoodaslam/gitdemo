@@ -1,3 +1,5 @@
 # gitdemo
 
-This is the github demo for me.
+This is the GitHub demo for me.
+
+Author: Muhammad Dawood!
